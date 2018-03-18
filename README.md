@@ -1,7 +1,7 @@
 # Cpp_demos
 Demos of C++.
 
-demo2.cpp --- 类定义
+demo2.cpp --- 类定义 \n
 demo6.cpp --- 隐含的this指针
 demo7.cpp --- 类作用域
 demo8.cpp --- 构造函数
