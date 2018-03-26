@@ -24,5 +24,9 @@ demo26.cpp --- 二元谓词<br>
 demo27.cpp --- 转换操作符<br>
 demo28.cpp --- 定义基类和派生类<br>
 demo29.cpp --- 动态绑定<br>
+demo30.cpp --- 派生类的三种继承方式<br>
+demo31.cpp --- 派生类的构造函数<br>
+demo32.cpp --- 派生类的析构函数<br>
+demo33.cpp --- 基类与派生类的转换与继承<br>
 
 [视频教程地址](https://www.bilibili.com/video/av17226947/)
